@@ -1,0 +1,40 @@
+[
+  {
+    "command": [
+      "返回上",
+      "上一页"
+    ],
+    "commandKey": "back_last",
+    "description": "返回上一页",
+    "pinyin": [
+      "fanhuishang",
+      "shangyiye"
+    ]
+  },
+  {
+    "command": [
+      "返回首页",
+      "首页"
+    ],
+    "commandKey": "back_map",
+    "description": "返回首页",
+    "pinyin": [
+      "fanhuishouye",
+      "shouye"
+    ]
+  },
+  {
+    "command": [
+      "关闭客户端",
+      "关闭",
+      "客户端"
+    ],
+    "commandKey": "close_system",
+    "description": "关闭客户端。",
+    "pinyin": [
+      "guanbikehuduan",
+      "guanbi",
+      "kehuduan"
+    ]
+  }
+]
